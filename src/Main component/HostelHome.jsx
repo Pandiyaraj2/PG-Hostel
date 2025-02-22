@@ -12,7 +12,7 @@ import repg2 from "../Assets/repg2.jpg";
 import repg3 from "../Assets/repg3.jpg";
 import repg4 from "../Assets/repg4.jpg";
 import repg5 from "../Assets/repg5.jpg";
-import repg6 from "../Assets/repg6.jpg";
+// /import repg6 from "../Assets/repg6.jpg";
 import repg7 from "../Assets/repg7.jpg";
 import repg8 from "../Assets/repg8.jpg";
 import repg9 from "../Assets/repg9.jpg";
